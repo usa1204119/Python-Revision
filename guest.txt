@@ -1,0 +1,5 @@
+Shivam
+Gaurav
+Abhishekh
+python -u "e:\python revision\poll.py"
+python -u "e:\python revision\poll.py"
